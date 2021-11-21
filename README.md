@@ -79,3 +79,9 @@ then, run it to open it on your localhot :
 docker run -i -t --name simple-mvc  -p 80:80 simple-mvc-container
 ```
 
+
+
+
+https://user-images.githubusercontent.com/90518071/142781561-f743b932-2bb9-4b89-9b0d-107ca3835ced.mp4
+
+
